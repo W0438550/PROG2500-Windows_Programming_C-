@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6TRmz5RuSOQxTfopmJuJ4AeJXDUZyCzM44DfNNiS3U+dUFkRZMM9rLGI52EcXrNoja08WJp1jK05JxUepMXnA==",
+  "success": true,
+  "projectFilePath": "D:\\NSCC\\Course_Work\\Year2Sem2\\PROG2500-Windows_Programming_C#\\MusicPlayer\\WpfTutorialSamples\\MusicPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soojh\\.nuget\\packages\\taglib-sharp-netstandard2.0\\2.1.0\\taglib-sharp-netstandard2.0.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

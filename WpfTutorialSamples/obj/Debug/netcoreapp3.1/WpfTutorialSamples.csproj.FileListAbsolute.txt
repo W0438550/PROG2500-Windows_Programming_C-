@@ -1,0 +1,47 @@
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.deps.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.runtimeconfig.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.runtimeconfig.dev.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\App.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples_MarkupCompile.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples_MarkupCompile.lref
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.g.resources
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.AssemblyInfoInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.AssemblyInfo.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.genruntimeconfig.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\netcoreapp3.1\taglib-sharp.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\DisplayTag.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\Debug\netcoreapp3.1\DisplayTag.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.deps.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.runtimeconfig.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.runtimeconfig.dev.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WpfTutorialSamples.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\taglib-sharp.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\App.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples_MarkupCompile.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples_MarkupCompile.lref
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.g.resources
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.AssemblyInfoInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.AssemblyInfo.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WpfTutorialSamples.genruntimeconfig.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.baml

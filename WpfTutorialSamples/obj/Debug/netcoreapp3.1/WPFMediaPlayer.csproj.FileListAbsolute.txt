@@ -1,0 +1,92 @@
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.deps.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.runtimeconfig.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.runtimeconfig.dev.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\bin\Debug\netcoreapp3.1\taglib-sharp.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\App.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer_MarkupCompile.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer_MarkupCompile.lref
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.g.resources
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.AssemblyInfoInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.AssemblyInfo.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples - Copy\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.genruntimeconfig.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.deps.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.runtimeconfig.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.runtimeconfig.dev.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\bin\Debug\netcoreapp3.1\taglib-sharp.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\App.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer_MarkupCompile.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer_MarkupCompile.lref
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.g.resources
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.AssemblyInfoInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.AssemblyInfo.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\Assignment1\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.genruntimeconfig.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.deps.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.runtimeconfig.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.runtimeconfig.dev.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\taglib-sharp.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\App.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer_MarkupCompile.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer_MarkupCompile.lref
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.baml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.g.resources
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.AssemblyInfoInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.AssemblyInfo.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.genruntimeconfig.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.deps.json
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.runtimeconfig.json
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.runtimeconfig.dev.json
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\WPFMediaPlayer.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\bin\Debug\netcoreapp3.1\taglib-sharp.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csprojAssemblyReference.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\App.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer_MarkupCompile.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer_MarkupCompile.lref
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\TagEditor.baml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.g.resources
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.AssemblyInfoInputs.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.AssemblyInfo.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csproj.CoreCompileInputs.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.csproj.CopyComplete
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\MediaPlayer\WpfTutorialSamples\obj\Debug\netcoreapp3.1\WPFMediaPlayer.genruntimeconfig.cache

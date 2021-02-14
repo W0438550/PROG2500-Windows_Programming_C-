@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="MusicPlayer.TagEditor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MusicPlayer"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="250">
+    <Grid>
+        <TextBox x:Name="titleDisplay" HorizontalAlignment="Left" Margin="10,59,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Height="27"/>
+        <TextBox x:Name="artistDisplay" HorizontalAlignment="Left" Margin="10,91,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Height="27"/>
+        <TextBox x:Name="albumDisplay" HorizontalAlignment="Left" Margin="10,123,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Height="27"/>
+        <TextBox x:Name="yearDisplay" HorizontalAlignment="Left" Margin="10,155,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Height="27"/>
+        <Button x:Name="saveBtn" Content="Save" HorizontalAlignment="Left" Margin="77,203,0,0" VerticalAlignment="Top" Height="21" Width="49" RenderTransformOrigin="-0.196,0.057" Click="SaveButton"/>
+
+    </Grid>
+</UserControl>
