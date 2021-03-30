@@ -1,0 +1,95 @@
+﻿<Window x:Class="MusicPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediaPlayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FlowDirection="LeftToRight">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="HorizontalAlignment" Value="Right"></Setter>
+        </Style>
+    </Window.Resources>
+
+    <!-- Command binding is the object which maps the command logic to the command -->
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Open" CanExecute="Open_CanExecute" Executed="Open_Executed" />
+        <CommandBinding Command="MediaCommands.Play" CanExecute="Play_CanExecute" Executed="Play_Executed" />
+        <CommandBinding Command="MediaCommands.Pause" CanExecute="Pause_CanExecute" Executed="Pause_Executed" />
+        <CommandBinding Command="MediaCommands.Stop" CanExecute="Stop_CanExecute" Executed="Stop_Executed" />
+    </Window.CommandBindings>
+
+    <Grid x:Name="MainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <ToolBar Width="800" HorizontalAlignment="Stretch">
+            <Menu Width="150" Height="20" VerticalAlignment="Top">
+                <!-- File menu items -->
+                <MenuItem Header="File">
+                    <MenuItem x:Name="menuOpen" Command="ApplicationCommands.Open" Header="Open MP3"></MenuItem>
+                    <MenuItem x:Name="menuCurTag" Header="Tag Current MP3" Click="Current_tag"></MenuItem>
+                    <MenuItem x:Name="menuExit" Header="Exit" Click="Exit_Program"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Edit">
+                    <MenuItem x:Name="menuEditTag" Header="Edit Current MP3 Tag" Click="Tag_edit"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Media">
+                    <MenuItem Command="MediaCommands.Play"></MenuItem>
+                    <MenuItem Command="MediaCommands.Pause"></MenuItem>
+                    <MenuItem Command="MediaCommands.Stop"></MenuItem>
+                </MenuItem>
+            </Menu>
+            <!-- set button with images and maps the button's command to the command -->
+            <Button Command="ApplicationCommands.Open">
+                <Image Source="C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\Images\open_file.png" />
+            </Button>
+            <Separator />
+            <Button Command="MediaCommands.Play">
+                <Image Source="C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\Images\media-play.png" />
+            </Button>
+            <Button Command="MediaCommands.Pause">
+                <Image Source="C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\Images\pause-icon.png" />
+            </Button>
+            <Button Command="MediaCommands.Stop">
+                <Image Source="C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\WpfTutorialSamples\WpfTutorialSamples\Images\stop-icon.png" />
+            </Button>
+        </ToolBar>
+        <!-- sets a media element -->
+        <MediaElement Name="mePlayer" Grid.Row="1" LoadedBehavior="Manual" Stretch="None" />
+
+        <StatusBar Grid.Row="2">
+            <StatusBar.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </ItemsPanelTemplate>
+            </StatusBar.ItemsPanel>
+            <StatusBarItem>
+                <TextBlock Name="lblProgressStatus">00:00:00</TextBlock>
+                <!-- sets progress status -->
+
+            </StatusBarItem>
+            <StatusBarItem Grid.Column="1" HorizontalContentAlignment="Stretch">
+                <Slider Name="SliProgress" Thumb.DragStarted="SliProgress_DragStarted"  Thumb.DragCompleted="SliProgress_DragCompleted" ValueChanged="SliProgress_ValueChanged" />
+            </StatusBarItem>
+        </StatusBar>
+        <!-- sets the textbox for displaying tag information -->
+        <MediaElement HorizontalAlignment="Left" Height="100" Margin="1011,235,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="titleTb" HorizontalAlignment="Left" Margin="474,84,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" Height="19" BorderBrush="White" RenderTransformOrigin="-2.044,1.175"/>
+        <TextBox x:Name="artistTb" HorizontalAlignment="Left" Margin="474,108,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" Height="19" BorderBrush="White"/>
+        <TextBox x:Name="albumTb" HorizontalAlignment="Left" Margin="474,134,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" Height="19" BorderBrush="White" />
+        <TextBox x:Name="yearTb" HorizontalAlignment="Left" Margin="474,160,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" Height="19" BorderBrush="White"/>
+
+    </Grid>
+</Window>

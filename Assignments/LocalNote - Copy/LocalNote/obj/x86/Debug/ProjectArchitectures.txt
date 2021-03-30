@@ -1,0 +1,1 @@
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote\LocalNote\LocalNote.csproj;x86

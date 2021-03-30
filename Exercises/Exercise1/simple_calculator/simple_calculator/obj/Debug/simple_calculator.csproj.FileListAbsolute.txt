@@ -1,0 +1,15 @@
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\bin\Debug\simple_calculator.exe.config
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\bin\Debug\simple_calculator.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\bin\Debug\simple_calculator.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\MainWindow.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\App.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator_MarkupCompile.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator_MarkupCompile.lref
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\MainWindow.baml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator.g.resources
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator.Properties.Resources.resources
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator.csproj.GenerateResource.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator.csproj.CoreCompileInputs.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Exercise1\simple_calculator\simple_calculator\obj\Debug\simple_calculator.csprojAssemblyReference.cache

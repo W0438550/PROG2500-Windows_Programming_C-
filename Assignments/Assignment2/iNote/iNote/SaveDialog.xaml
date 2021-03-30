@@ -1,0 +1,19 @@
+﻿<ContentDialog
+    x:Class="iNote.SaveDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:iNote"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Enter File Name"
+    PrimaryButtonText="Save"
+    SecondaryButtonText="Cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick">
+
+    <Grid>
+        <TextBlock Name="msgBox" Margin="1,1,1,54"></TextBlock>
+        <TextBox x:Name="fileName" Margin="0,45,0,0" PlaceholderText="Add a file here..."></TextBox>
+    </Grid>
+</ContentDialog>

@@ -1,0 +1,16 @@
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment1\MusicPlayer\MusicPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs

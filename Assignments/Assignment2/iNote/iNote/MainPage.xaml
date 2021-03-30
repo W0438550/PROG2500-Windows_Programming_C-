@@ -1,0 +1,86 @@
+﻿<Page
+    x:Class="iNote.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:iNote"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:models="using:iNote.Models" 
+    xmlns:viewmodels="using:iNote.ViewModels"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+
+        <CollectionViewSource x:Name="NoteFilesCollection" 
+                  Source="{x:Bind NFViewModel.NoteFiles}"></CollectionViewSource>
+        <DataTemplate x:Name="NoteFilesTemplate" x:DataType="models:NoteFile">
+
+            <StackPanel Orientation="Horizontal" Margin="6">
+                <SymbolIcon Symbol="OpenFile"></SymbolIcon>
+                <TextBlock Text="{x:Bind FileName}"></TextBlock>
+            </StackPanel>
+
+        </DataTemplate>
+
+    </Page.Resources>
+
+    <Page.TopAppBar>
+        <CommandBar>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:Name="About" Label="About"
+                             Command="{x:Bind NFViewModel.AboutCommand}"></AppBarButton>
+                <AppBarButton x:Name="Exit" Label="Exit"
+                               Command="{x:Bind NFViewModel.ExitCommand}">
+                </AppBarButton>
+            </CommandBar.SecondaryCommands>
+            <AppBarButton
+                    Icon="Add" Label="Add"
+                Command="{x:Bind NFViewModel.AddCommand}">
+            </AppBarButton>
+            <AppBarButton Icon="Save" Label="Save"
+                Command="{x:Bind NFViewModel.SaveCommand}">
+            </AppBarButton>
+            <AppBarButton Icon="Edit" Label="Edit"
+                Command="{x:Bind NFViewModel.EditCommand}">
+            </AppBarButton>
+            <AppBarButton Icon="Delete" Label="Delete"
+                Command="{x:Bind NFViewModel.DeleteCommand}">
+            </AppBarButton>
+        </CommandBar>
+    </Page.TopAppBar>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="449*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="107*"/>
+            <ColumnDefinition Width="393*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:Name="FilterTextbox" 
+                 Text="{x:Bind NFViewModel.Filter, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                 PlaceholderText="Search file here..."
+                 FontSize="16" Margin="6" Height="30"
+                 Grid.Row="0" Grid.Column="0"/>
+
+        <ScrollViewer Grid.Row="1" Grid.Column="0">
+            <ListView VerticalAlignment="Top"
+                ItemsSource="{Binding Source={StaticResource NoteFilesCollection}}"
+                ItemTemplate="{Binding Source={StaticResource NoteFilesTemplate}}"
+                SelectedItem="{x:Bind NFViewModel.SelectedFile, Mode=TwoWay}">
+
+            </ListView>
+        </ScrollViewer>
+
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="10">
+            <TextBox ScrollViewer.HorizontalScrollMode="Auto" x:Name="fileText" Width="400" Height="500" AcceptsReturn="True" 
+                     TextWrapping="Wrap" Text="{x:Bind NFViewModel.FileText, Mode=TwoWay}">
+
+            </TextBox>
+        </StackPanel>
+
+    </Grid>
+</Page>
