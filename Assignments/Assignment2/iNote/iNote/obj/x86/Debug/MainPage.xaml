@@ -29,7 +29,8 @@
         <CommandBar>
             <CommandBar.SecondaryCommands>
                 <AppBarButton x:ConnectionId='6' x:Name="About" Label="About"
-                                                                        ></AppBarButton>
+                                                        ToolTipService.ToolTip="Application Info">
+                </AppBarButton>
                 <AppBarButton x:ConnectionId='7' x:Name="Exit" Label="Exit"
                                                                          >
                 </AppBarButton>
@@ -67,7 +68,7 @@
                  Grid.Row="0" Grid.Column="0"/>
 
         <ScrollViewer Grid.Row="1" Grid.Column="0">
-            <ListView x:ConnectionId='14' VerticalAlignment="Top"
+            <ListView x:ConnectionId='15' VerticalAlignment="Top"
                 ItemsSource="{Binding Source={StaticResource NoteFilesCollection}}"
                 ItemTemplate="{Binding Source={StaticResource NoteFilesTemplate}}"
                                                                              >
@@ -76,9 +77,12 @@
         </ScrollViewer>
 
         <StackPanel Grid.Column="1" Grid.Row="1" Margin="10">
-            <TextBox x:ConnectionId='13' ScrollViewer.HorizontalScrollMode="Auto" x:Name="fileText" Width="400" Height="500" AcceptsReturn="True" 
+            <TextBox x:ConnectionId='13' HorizontalAlignment="Center" Height="50"
+                                                                      FontSize="24">
+            </TextBox>
+            
+            <TextBox x:ConnectionId='14' ScrollViewer.HorizontalScrollMode="Auto" x:Name="fileText" Width="400" Height="500" AcceptsReturn="True" 
                      TextWrapping="Wrap"                                                  >
-
             </TextBox>
         </StackPanel>
 

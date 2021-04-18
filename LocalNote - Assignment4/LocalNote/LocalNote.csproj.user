@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SplashScreenSource>C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\LocalNote\Assets\SplashScreen.scale-200.png</SplashScreenSource>
+    <Source>
+    </Source>
+    <SmallTileSource>C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\LocalNote\Assets\SplashScreen.png</SmallTileSource>
+    <MediumTileSource>C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\LocalNote\Assets\SplashScreen.png</MediumTileSource>
+    <WideTileSource>C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\LocalNote\Assets\SplashScreen.png</WideTileSource>
+    <LargeTileSource>C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\LocalNote\Assets\SplashScreen.png</LargeTileSource>
+    <AppIconSource>C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\LocalNote\Assets\Square44x44Logo.targetsize-24_altform-unplated.png</AppIconSource>
+    <PackageLogoSource>C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\LocalNote\Assets\SplashScreen.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

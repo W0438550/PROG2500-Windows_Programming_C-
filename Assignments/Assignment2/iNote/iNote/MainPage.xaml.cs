@@ -27,6 +27,13 @@ namespace iNote
         {
             this.InitializeComponent();
             this.NFViewModel = new ViewModels.NoteFileViewModel(fileText);
+            Repositories.DataRepo.InitializeDatabase();
+
+        }
+
+        private void AppBarButton_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(About));
         }
     }
 }

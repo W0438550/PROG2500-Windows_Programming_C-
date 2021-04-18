@@ -10,7 +10,7 @@ using Windows.Storage;
 
 namespace iNote.Repositories
 {
-    class iNoteRepo
+    public class iNoteRepo
     {
         // create a storage folder
         private static StorageFolder textfileFolder = ApplicationData.Current.LocalFolder;

@@ -28,19 +28,38 @@ namespace iNote.Commands
             return NFViewModel.canDelete;
         }
 
-        public void Execute(object parameter)
+        public async void Execute(object parameter)
         {
-            // delete the selected file from the windows storage
-            iNoteRepo.DeleteFile(NFViewModel.FileName);
+            // create a content dialog with the appropriate contents
+            ContentDialog deleteFileDialog = new ContentDialog
+            {
+                Title = "Delete Note",
+                Content = "Are you sure you want to delete this node?",
+                PrimaryButtonText = "Delete Note",
+                CloseButtonText = "Cancel"
+            };
 
-            // set the selected file empty and make unsectable the Edit and Save button
-            NFViewModel.SelectedFile = new NoteFile("", "");
-            NFViewModel.canEdit = false;
-            NFViewModel.canSave = false;
+            ContentDialogResult result = await deleteFileDialog.ShowAsync();
 
-            NFViewModel.ChangesMade();
-            NFViewModel.PerformFiltering();
-            NFViewModel.CreateAListOfFiles();
+            if (result == ContentDialogResult.Primary)
+            {
+
+                // delete the selected file from the windows storage
+                DataRepo.DeleteFile(NFViewModel.FileName);
+
+                // set the selected file empty and make unselectable the Edit and Save button
+                NFViewModel.SelectedFile = new NoteFile("", "");
+                NFViewModel.canEdit = false;
+                NFViewModel.canSave = false;
+
+                NFViewModel.ChangesMade();
+                NFViewModel.PerformFiltering();
+                NFViewModel.CreateAListOfFiles();
+            }
+            else
+            {
+                // do nothing
+            }
         }
 
         public void FireCanExecuteChanged()

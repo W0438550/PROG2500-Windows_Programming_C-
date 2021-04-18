@@ -1,0 +1,2 @@
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\LocalNote\LocalNote.csproj;x64
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\UnitTestLocalNote.csproj;x64

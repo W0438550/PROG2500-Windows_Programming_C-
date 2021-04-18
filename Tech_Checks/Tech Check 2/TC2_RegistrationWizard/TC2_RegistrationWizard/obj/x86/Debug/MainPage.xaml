@@ -1,0 +1,59 @@
+﻿<Page
+    x:Class="TC2_RegistrationWizard.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TC2_RegistrationWizard"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+ 
+    >
+    
+    <Grid>
+        
+        <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+            <TextBox x:ConnectionId='2' x:Name="tbFirstName" Header="First Name:" AcceptsReturn="False" Margin="10"
+                     PlaceholderText="Siddhart"/>
+            <TextBox x:ConnectionId='3' x:Name="tbLastName" Header="Last Name:" AcceptsReturn="False" Margin="10"
+                     PlaceholderText="Soojhawon"/>
+            <PasswordBox x:ConnectionId='4' x:Name="tbPassword" Header="Password:" Margin="10" PasswordChar="*"
+                         PlaceholderText=""/>
+        </StackPanel>
+
+    </Grid>
+    <Page.TopAppBar>
+        <CommandBar>
+            <CommandBar.Content>
+                <TextBox Text="Page 1" FontSize="14" FontFamily="tahoma" />
+            </CommandBar.Content>
+        </CommandBar>
+    </Page.TopAppBar>
+
+    <Page.BottomAppBar>
+       
+        <CommandBar>
+            <AppBarButton x:ConnectionId='5' 
+                x:Name="Previous"
+                Icon="Previous"
+                Label="Previous"
+                                      
+                IsEnabled="False"
+                />
+            <AppBarButton x:ConnectionId='6'
+                x:Name="Next"
+                Icon="Next"
+                Label="Next"
+                                  
+                />
+            <AppBarButton x:ConnectionId='7' 
+                x:Name="Save"
+                Icon="Save"
+                Label="Save"
+                                  
+                Visibility="Collapsed"
+                />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

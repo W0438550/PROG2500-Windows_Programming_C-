@@ -1,0 +1,912 @@
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\App.xbf
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\MainPage.xbf
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.xr.xml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.exe
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.pdb
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\resources.pri
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\AppxManifest.xml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Core\TC2_RegistrationWizard.exe
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.build.appxrecipe
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Core.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Windows.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\clrjit.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\clrcompression.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.AppContext.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Buffers.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Data.Common.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Http.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csprojAssemblyReference.cache
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.g.i.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.g.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.g.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.xaml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.xaml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.xbf
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.xbf
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csproj.CoreCompileInputs.cache
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csproj.CopyComplete
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.exe
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.pdb
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\priconfig.xml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\resources.resfiles
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\pri.resfiles
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\qualifiers.txt
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Page2.xbf
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Page3.xbf
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.g.i.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.g.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.g.i.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.g.cs
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.xaml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.xaml
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.xbf
+C:\Users\nscc\source\repos\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.g.i.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.g.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.g.i.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.g.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.g.i.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.g.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.g.i.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.g.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.xaml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.xaml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.xaml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.xaml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\XamlSaveStateFile.xml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.exe
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.pdb
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\App.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\MainPage.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Page2.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Page3.xbf
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.xr.xml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.exe
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.pdb
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\resources.pri
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\AppxManifest.xml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Core\AppxManifest.xml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Core\TC2_RegistrationWizard.exe
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.build.appxrecipe
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.CSharp.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Core.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Web.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Windows.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.Linq.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.Serialization.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.VisualBasic.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Tools.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Tracing.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.Calendars.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Extensions.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Primitives.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Resources.ResourceManager.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Handles.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.InteropServices.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Timer.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Debug.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.FileSystem.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Primitives.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Sockets.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Extensions.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\clrjit.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\clrcompression.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.Uri.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.AppContext.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Buffers.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Concurrent.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Immutable.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.NonGeneric.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Specialized.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.Annotations.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Data.Common.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Contracts.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Dynamic.Runtime.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.Extensions.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.Compression.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.IsolatedStorage.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Expressions.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Parallel.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Queryable.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Http.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Http.Rtc.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.NameResolution.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.NetworkInformation.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Requests.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebSockets.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebSockets.Client.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.Vectors.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ObjectModel.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.DataContractSerialization.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.ServiceModel.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Context.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Metadata.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Numerics.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Claims.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Principal.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Duplex.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Http.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Primitives.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Security.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.RegularExpressions.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Overlapped.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.ReaderWriter.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XDocument.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XmlDocument.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XmlSerializer.dll
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\XamlTypeInfo.g.cs
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csproj.CoreCompileInputs.cache
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csproj.CopyComplete
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\ResourceHandlingTask.state
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\priconfig.xml
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\priconfig.xml.intermediate
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\unfiltered.layout.resfiles
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\filtered.layout.resfiles
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\filtered.layout.resfiles.intermediate
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\excluded.layout.resfiles
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\excluded.layout.resfiles.intermediate
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\resources.resfiles
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\resources.resfiles.intermediate
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\pri.resfiles
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\pri.resfiles.intermediate
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\qualifiers.txt
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\qualifiers.txt.intermediate
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\ProjectArchitectures.txt
+G:\PROG2500C#\TechCheck2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csprojAssemblyReference.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\App.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\MainPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Page2.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Page3.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.xr.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\resources.pri
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\AppxManifest.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Core\AppxManifest.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Core\TC2_RegistrationWizard.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.build.appxrecipe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.CSharp.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Core.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Windows.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.Linq.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.Serialization.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Handles.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Timer.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.FileSystem.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Sockets.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\clrjit.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\clrcompression.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.Uri.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.AppContext.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Buffers.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Immutable.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Specialized.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Data.Common.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.Compression.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Expressions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Parallel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Queryable.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Http.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.NameResolution.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Requests.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebSockets.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ObjectModel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Context.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Claims.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Principal.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XDocument.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csprojAssemblyReference.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csproj.CoreCompileInputs.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csproj.CopyComplete
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\ResourceHandlingTask.state
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\priconfig.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\priconfig.xml.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\filtered.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\excluded.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\resources.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\resources.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\pri.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\pri.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\qualifiers.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\ProjectArchitectures.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\App.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\MainPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Page2.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Page3.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.xr.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\resources.pri
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\AppxManifest.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Core\AppxManifest.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Core\TC2_RegistrationWizard.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\TC2_RegistrationWizard.build.appxrecipe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.CSharp.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Core.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Windows.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.Linq.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.Serialization.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Handles.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Timer.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.FileSystem.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Sockets.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\clrjit.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\clrcompression.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.Uri.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.AppContext.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Buffers.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Immutable.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Collections.Specialized.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Data.Common.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.Compression.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Expressions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Parallel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Linq.Queryable.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Http.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.NameResolution.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.Requests.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebSockets.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ObjectModel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Context.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Claims.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Security.Principal.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XDocument.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csprojAssemblyReference.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\App.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MainPage.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page2.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\Page3.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csproj.CoreCompileInputs.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.csproj.CopyComplete
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\TC2_RegistrationWizard.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\ResourceHandlingTask.state
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\priconfig.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\priconfig.xml.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\filtered.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\excluded.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\resources.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\resources.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\pri.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\pri.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\qualifiers.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Tech_Checks\Tech Check 2\TC2_RegistrationWizard\TC2_RegistrationWizard\obj\x86\Debug\ProjectArchitectures.txt

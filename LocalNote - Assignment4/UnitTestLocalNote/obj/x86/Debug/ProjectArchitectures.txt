@@ -1,0 +1,2 @@
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\LocalNote\LocalNote.csproj;x86
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\UnitTestLocalNote.csproj;x86

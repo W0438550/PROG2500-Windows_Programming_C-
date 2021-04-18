@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="TC2_RegistrationWizard.Page3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TC2_RegistrationWizard"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:ConnectionId='2' x:Name="tbEmail" Header="Email:" AcceptsReturn="False" Margin="10" 
+                 PlaceholderText="w0438550@nscc.ca"/>
+        <TextBox x:ConnectionId='3' x:Name="tbHomePage" Header="HomePage:" AcceptsReturn="False" Margin="10" 
+                 PlaceholderText=""/>
+    </StackPanel>
+    <Page.TopAppBar>
+        <CommandBar>
+            <CommandBar.Content>
+                <TextBox Text="Page 3" FontSize="14" FontFamily="tahoma" />
+            </CommandBar.Content>
+        </CommandBar>
+    </Page.TopAppBar>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='4' 
+                x:Name="Previous"
+                Icon="Previous"
+                Label="Previous"
+                                      
+                />
+            <AppBarButton x:ConnectionId='5'
+                x:Name="Next"
+                Icon="Next"
+                Label="Next"
+                                  
+                IsEnabled="False"
+
+                />
+            <AppBarButton x:ConnectionId='6' 
+                x:Name="Save"
+                Icon="Save"
+                Label="Save"
+                                  
+                
+                />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

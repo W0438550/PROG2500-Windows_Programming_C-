@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>BDD854DA8B3695D74E361A72C6F7122A855F80B42A750B5E3006CE9CA82E52E7</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>7DA74C1151BE693F08851B12D828317D7CEC13347DAB96DAB5D7C00CE9B45AE4</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>03c20358-23f0-4dea-871e-02b8d84c02e2_1.0.0.0_x86__e4r0khed0bwr4</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>03c20358-23f0-4dea-871e-02b8d84c02e2_e4r0khed0bwr4!App</RegisteredUserModeAppID>
     <RegisteredPackageID>03c20358-23f0-4dea-871e-02b8d84c02e2</RegisteredPackageID>
@@ -30,17 +30,37 @@
     <AppXManifest Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-03-30T16:25:46.112</Modified>
+      <Modified>2021-04-18T17:06:18.655</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\iNote.exe">
       <PackagePath>entrypoint\iNote.exe</PackagePath>
-      <Modified>2021-03-30T16:25:42.205</Modified>
+      <Modified>2021-04-18T17:06:12.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\soojh\.nuget\packages\microsoft.data.sqlite.core\5.0.5\lib\netstandard2.0\Microsoft.Data.Sqlite.dll">
+      <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
+      <Modified>2021-03-11T22:35:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\soojh\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
-      <Modified>2020-02-27T23:16:04.000</Modified>
+      <Modified>2021-02-05T05:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\soojh\.nuget\packages\sqlitepclraw.bundle_winsqlite3\2.0.4\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2020-09-03T20:13:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\soojh\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2020-09-03T20:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\soojh\.nuget\packages\sqlitepclraw.provider.winsqlite3\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.winsqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.winsqlite3.dll</PackagePath>
+      <Modified>2020-09-03T20:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\soojh\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2018-09-18T22:38:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
@@ -86,19 +106,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\iNote.xr.xml">
       <PackagePath>iNote.xr.xml</PackagePath>
-      <Modified>2021-03-30T16:25:41.273</Modified>
+      <Modified>2021-04-17T23:43:25.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-03-30T16:25:41.329</Modified>
+      <Modified>2021-04-18T17:06:12.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2021-04-18T17:06:12.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-03-30T16:25:41.859</Modified>
+      <Modified>2021-04-18T17:06:12.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\SaveDialog.xbf">
       <PackagePath>SaveDialog.xbf</PackagePath>
-      <Modified>2021-03-30T16:25:41.861</Modified>
+      <Modified>2021-04-18T17:06:12.416</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,65 +130,65 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-03-30T16:25:43.118</Modified>
+      <Modified>2021-04-18T17:06:15.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\Core\iNote.exe">
       <PackagePath>iNote.exe</PackagePath>
-      <Modified>2021-03-30T16:25:46.036</Modified>
+      <Modified>2021-04-18T17:06:18.584</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\soojh\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
-      <Version>2.2.27902.3</Version>
+      <Version>2.2.29713.2</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\soojh\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\soojh\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
-      <Version>2.2.27902.3</Version>
+      <Version>2.2.29713.2</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\soojh\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\soojh\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
-      <Version>2.2.27902.3</Version>
+      <Version>2.2.29713.2</Version>
       <Architecture>arm</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\soojh\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\soojh\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
-      <Version>2.2.28529.0</Version>
+      <Version>2.2.29301.2</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\soojh\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\soojh\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
-      <Version>2.2.28529.0</Version>
+      <Version>2.2.29301.2</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\soojh\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\soojh\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
-      <Version>2.2.28529.0</Version>
+      <Version>2.2.29301.2</Version>
       <Architecture>arm</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\soojh\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>

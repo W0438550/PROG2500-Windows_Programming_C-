@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NSCC\\Course_Work\\Year2Sem2\\PROG2500-Windows_Programming_C#\\Tech_Checks\\Tech Check 2\\TC2_RegistrationWizard\\TC2_RegistrationWizard\\TC2_RegistrationWizard.csproj": {}
+  },
+  "projects": {
+    "D:\\NSCC\\Course_Work\\Year2Sem2\\PROG2500-Windows_Programming_C#\\Tech_Checks\\Tech Check 2\\TC2_RegistrationWizard\\TC2_RegistrationWizard\\TC2_RegistrationWizard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NSCC\\Course_Work\\Year2Sem2\\PROG2500-Windows_Programming_C#\\Tech_Checks\\Tech Check 2\\TC2_RegistrationWizard\\TC2_RegistrationWizard\\TC2_RegistrationWizard.csproj",
+        "projectName": "TC2_RegistrationWizard",
+        "projectPath": "D:\\NSCC\\Course_Work\\Year2Sem2\\PROG2500-Windows_Programming_C#\\Tech_Checks\\Tech Check 2\\TC2_RegistrationWizard\\TC2_RegistrationWizard\\TC2_RegistrationWizard.csproj",
+        "packagesPath": "C:\\Users\\soojh\\.nuget\\packages\\",
+        "outputPath": "D:\\NSCC\\Course_Work\\Year2Sem2\\PROG2500-Windows_Programming_C#\\Tech_Checks\\Tech Check 2\\TC2_RegistrationWizard\\TC2_RegistrationWizard\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\soojh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.15063"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.15063": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.15063": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.1.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

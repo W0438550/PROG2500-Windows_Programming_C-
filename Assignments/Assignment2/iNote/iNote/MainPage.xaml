@@ -29,7 +29,8 @@
         <CommandBar>
             <CommandBar.SecondaryCommands>
                 <AppBarButton x:Name="About" Label="About"
-                             Command="{x:Bind NFViewModel.AboutCommand}"></AppBarButton>
+                             Click="AppBarButton_Click" ToolTipService.ToolTip="Application Info">
+                </AppBarButton>
                 <AppBarButton x:Name="Exit" Label="Exit"
                                Command="{x:Bind NFViewModel.ExitCommand}">
                 </AppBarButton>
@@ -76,9 +77,12 @@
         </ScrollViewer>
 
         <StackPanel Grid.Column="1" Grid.Row="1" Margin="10">
+            <TextBox HorizontalAlignment="Center" Height="50"
+                    Text="{x:Bind NFViewModel.FileName, Mode=OneWay}" FontSize="24">
+            </TextBox>
+            
             <TextBox ScrollViewer.HorizontalScrollMode="Auto" x:Name="fileText" Width="400" Height="500" AcceptsReturn="True" 
                      TextWrapping="Wrap" Text="{x:Bind NFViewModel.FileText, Mode=TwoWay}">
-
             </TextBox>
         </StackPanel>
 

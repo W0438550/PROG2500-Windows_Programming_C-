@@ -1,0 +1,93 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="LocalNote.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LocalNote"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:models="using:LocalNote.Models" 
+    xmlns:viewmodels="using:LocalNote.ViewModels"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        
+        <CollectionViewSource x:ConnectionId='2' x:Name="NoteFilesCollection" 
+                                                         ></CollectionViewSource>
+        <DataTemplate x:ConnectionId='3' x:Name="NoteFilesTemplate"                             >
+            
+            <StackPanel x:ConnectionId='4' Orientation="Horizontal" Margin="6">
+                <SymbolIcon Symbol="OpenFile"></SymbolIcon>
+                <TextBlock x:ConnectionId='5'                         ></TextBlock>
+            </StackPanel>
+
+        </DataTemplate>
+
+    </Page.Resources>
+
+    <Page.TopAppBar>
+        <CommandBar>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='6' x:Name="About" Label="About"
+                                                         ToolTipService.ToolTip="Application Info">
+                  
+                </AppBarButton>
+                <AppBarButton x:ConnectionId='7' x:Name="Exit" Label="Exit"
+                                                                         >
+                </AppBarButton>
+            </CommandBar.SecondaryCommands>
+            <AppBarButton x:ConnectionId='8'
+                    Icon="Add" Label="Add"
+                                                         >
+            </AppBarButton>
+            <AppBarButton x:ConnectionId='9' Icon="Save" Label="Save"
+                                                          >
+            </AppBarButton>
+            <AppBarButton x:ConnectionId='10' Icon="Edit" Label="Edit"
+                                                          >
+            </AppBarButton>
+            <AppBarButton x:ConnectionId='11' Icon="Delete" Label="Delete"
+                                                            >
+            </AppBarButton>
+        </CommandBar>
+    </Page.TopAppBar>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="449*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="107*"/>
+            <ColumnDefinition Width="393*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:ConnectionId='12' x:Name="FilterTextbox" 
+                                                                                                     
+                 PlaceholderText="Search file here..."
+                 FontSize="16" Margin="6" Height="30"
+                 Grid.Row="0" Grid.Column="0"/>
+
+        <ScrollViewer Grid.Row="1" Grid.Column="0">
+            <ListView x:ConnectionId='15' VerticalAlignment="Top"
+                ItemsSource="{Binding Source={StaticResource NoteFilesCollection}}"
+                ItemTemplate="{Binding Source={StaticResource NoteFilesTemplate}}"
+                                                                             >
+
+            </ListView>
+        </ScrollViewer>
+
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="10">
+            <TextBox x:ConnectionId='13' HorizontalAlignment="Center" Height="50"
+                                                                      FontSize="24"></TextBox>
+            
+            <TextBox x:ConnectionId='14' ScrollViewer.HorizontalScrollMode="Auto" x:Name="fileText" Width="400" Height="500" AcceptsReturn="True" 
+                     TextWrapping="Wrap"                                                  >
+                
+
+            </TextBox>
+        </StackPanel>
+
+    </Grid>
+</Page>
+

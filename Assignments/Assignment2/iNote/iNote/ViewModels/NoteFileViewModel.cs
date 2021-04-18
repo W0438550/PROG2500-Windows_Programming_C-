@@ -21,7 +21,7 @@ namespace iNote.ViewModels
         public EditCommand EditCommand { get; }
         public DeleteCommand DeleteCommand { get; }
         public ExitCommand ExitCommand { get; }
-        public AboutCommand AboutCommand { get; }
+        //public AboutCommand AboutCommand { get; }
 
         private TextBox textBox;
 
@@ -58,7 +58,7 @@ namespace iNote.ViewModels
             this.EditCommand = new EditCommand(this, tBox);
             this.SaveCommand = new SaveCommand(this, tBox);
             this.ExitCommand = new ExitCommand();
-            this.AboutCommand = new AboutCommand();
+            //this.AboutCommand = new AboutCommand();
 
 
             // create a list of files
@@ -104,7 +104,7 @@ namespace iNote.ViewModels
             EditCommand.FireCanExecuteChanged();
             SaveCommand.FireCanExecuteChanged();
             ExitCommand.FireCanExecuteChanged();
-            AboutCommand.FireCanExecuteChanged();
+            //AboutCommand.FireCanExecuteChanged();
 
         }
 
@@ -166,31 +166,34 @@ namespace iNote.ViewModels
         }
 
         // Display the existing file names
-        public async void CreateAListOfFiles()
+        public void CreateAListOfFiles()
         {
             _allFiles.Clear();
             NoteFiles.Clear();
 
-            StorageFolder textFolder = ApplicationData.Current.LocalFolder;
+            //StorageFolder textFolder = ApplicationData.Current.LocalFolder;
 
-            IReadOnlyList<StorageFile> storageFiles = await textFolder.GetFilesAsync();
+            //IReadOnlyList<StorageFile> storageFiles = await textFolder.GetFilesAsync();
 
-            //For each file input into all files list
-            foreach (StorageFile file in storageFiles)
-            {
-                if (file != null)
-                {
-                    try
-                    {
-                        // display file names from the list
-                        _allFiles.Add(new NoteFile(file.DisplayName, await FileIO.ReadTextAsync(file)));
-                    }
-                    catch (FileNotFoundException ex)
-                    {
-                        Debug.WriteLine("Oh noes! File not found " + ex.Message);
-                    }
-                }
-            }
+            ////For each file input into all files list
+            //foreach (StorageFile file in storageFiles)
+            //{
+            //    if (file != null)
+            //    {
+            //        try
+            //        {
+            //            // display file names from the list
+            //            _allFiles.Add(new NoteFile(file.DisplayName, await FileIO.ReadTextAsync(file)));
+            //        }
+            //        catch (FileNotFoundException ex)
+            //        {
+            //            Debug.WriteLine("Oh noes! File not found " + ex.Message);
+            //        }
+            //    }
+            //}
+
+            // add notefiles to the list
+            _allFiles = Repositories.DataRepo.GetData();
 
             // call the perform filtering
             PerformFiltering();
@@ -209,8 +212,5 @@ namespace iNote.ViewModels
 
             return false;
         }
-
-
-
     }
 }

@@ -41,14 +41,14 @@ namespace iNote.Commands
                 // create a new file
                 if (!saveDialog.IsExited)
                 {
-                    localNoteRepo.CreateNewFile(saveDialog.FName, text);
+                    DataRepo.CreateNewFile(saveDialog.FName, text);
                 }
 
             }
             else
             {
                 // write to an existing file
-                localNoteRepo.WriteToFile(text, NFViewModel.FileName);
+                DataRepo.WriteToFile(text, NFViewModel.FileName);
             }
 
 

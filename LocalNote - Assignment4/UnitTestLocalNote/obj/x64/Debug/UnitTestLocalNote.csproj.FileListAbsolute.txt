@@ -1,0 +1,294 @@
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestApp.xbf
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.xr.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\resources.pri
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\testhost.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Newtonsoft.Json.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\System.Runtime.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\LocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\LocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.i.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xaml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xbf
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\XamlSaveStateFile.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\ResourceHandlingTask.state
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework\en\Microsoft.VisualStudio.TestTools.UnitTesting.Resources.FrameworkMessages.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter\en\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Resources.Resource.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.TestPlatform.CommunicationUtilities\en-US\Microsoft.VisualStudio.TestPlatform.CommunicationUtilities.Resources.Resources.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.TestPlatform.CoreUtilities\en-US\Microsoft.VisualStudio.TestPlatform.CoreUtilities.Resources.Resources.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.TestPlatform.CrossPlatEngine\en-US\Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Resources.Resources.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.Resources.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.Common\en-US\Microsoft.VisualStudio.TestPlatform.Common.Resources.Resources.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.Resources.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.CommonResources.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\priconfig.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\priconfig.xml.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\resources.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\resources.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\pri.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\pri.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\AppxManifest.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Core\AppxManifest.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\Core\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.build.appxrecipe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\ProjectArchitectures.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Copy - Copy\UnitTestLocalNote\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\UnitTestApp.xbf
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.xr.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\resources.pri
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\AppxManifest.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Core\AppxManifest.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Core\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.build.appxrecipe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\testhost.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Newtonsoft.Json.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\System.Runtime.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\LocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\bin\x64\Debug\LocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.i.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xaml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xbf
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\XamlSaveStateFile.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\ResourceHandlingTask.state
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\priconfig.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\priconfig.xml.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\resources.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\resources.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\pri.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\pri.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\ProjectArchitectures.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3\UnitTestLocalNote\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestApp.xbf
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.xr.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\resources.pri
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\AppxManifest.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Core\AppxManifest.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Core\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.build.appxrecipe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\testhost.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Newtonsoft.Json.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\System.Runtime.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.provider.winsqlite3.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\LocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\DataRepository.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\LocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\DataRepository.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\bin\x64\Debug\DataRepository.pri
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.i.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xaml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xbf
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\XamlSaveStateFile.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\DataRepository.pri.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\ResourceHandlingTask.state
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\priconfig.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\priconfig.xml.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\resources.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\resources.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\pri.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\pri.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\ProjectArchitectures.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment3 - Copy\UnitTestLocalNote\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestApp.xbf
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.xr.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\resources.pri
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\AppxManifest.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Core\AppxManifest.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Core\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.build.appxrecipe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\testhost.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Newtonsoft.Json.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\System.Runtime.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.provider.winsqlite3.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\LocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\LocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csprojAssemblyReference.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.i.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xaml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xbf
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\XamlSaveStateFile.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CoreCompileInputs.cache
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CopyComplete
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.exe
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.pdb
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\ResourceHandlingTask.state
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\priconfig.xml
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\priconfig.xml.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\resources.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\resources.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\pri.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\pri.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles.intermediate
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\ProjectArchitectures.txt
+C:\NSCC\2nd Year\2nd Semester\Windows Programming C#\Projects\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestApp.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.xr.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\resources.pri
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\AppxManifest.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Core\AppxManifest.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Core\UnitTestLocalNote.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\UnitTestLocalNote.build.appxrecipe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\testhost.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Newtonsoft.Json.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\System.Runtime.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.core.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\SQLitePCLRaw.provider.winsqlite3.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\LocalNote.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\bin\x64\Debug\LocalNote.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csprojAssemblyReference.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestApp.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\XamlSaveStateFile.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CoreCompileInputs.cache
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.csproj.CopyComplete
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.exe
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\UnitTestLocalNote.pdb
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\ResourceHandlingTask.state
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework\en\Microsoft.VisualStudio.TestTools.UnitTesting.Resources.FrameworkMessages.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter\en\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Resources.Resource.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.TestPlatform.CommunicationUtilities\en-US\Microsoft.VisualStudio.TestPlatform.CommunicationUtilities.Resources.Resources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.TestPlatform.CoreUtilities\en-US\Microsoft.VisualStudio.TestPlatform.CoreUtilities.Resources.Resources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.TestPlatform.CrossPlatEngine\en-US\Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Resources.Resources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.Resources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.Common\en-US\Microsoft.VisualStudio.TestPlatform.Common.Resources.Resources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.Resources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.CommonResources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\priconfig.xml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\priconfig.xml.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\resources.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\resources.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\pri.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\pri.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\qualifiers.txt.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\resources.en.resfiles.intermediate
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\ProjectArchitectures.txt
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\LocalNote - Assignment4\UnitTestLocalNote\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json

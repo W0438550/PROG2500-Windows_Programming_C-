@@ -1,4 +1,3 @@
-D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\iNote.csprojAssemblyReference.cache
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\App.g.i.cs
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\App.g.cs
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\MainPage.g.i.cs
@@ -48,3 +47,14 @@ D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assign
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\ProjectArchitectures.txt
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112750540000000.json
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\SQLitePCLRaw.provider.winsqlite3.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\About.g.i.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\About.g.cs
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\About.xaml
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\About.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\About.xbf
