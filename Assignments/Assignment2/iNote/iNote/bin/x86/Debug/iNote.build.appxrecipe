@@ -49,8 +49,193 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\iNote_icon.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\iNote_icon.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\iNote_icon.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\iNote_icon.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\iNote_icon.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\iNote_icon.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-unplated_targetsize-24.png">
+      <PackagePath>Assets\iNote_icon.altform-unplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\iNote_icon.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\iNote_icon.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\iNote_icon.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.scale-100.png">
+      <PackagePath>Assets\iNote_icon.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.scale-125.png">
+      <PackagePath>Assets\iNote_icon.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.scale-150.png">
+      <PackagePath>Assets\iNote_icon.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.scale-200.png">
+      <PackagePath>Assets\iNote_icon.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.scale-400.png">
+      <PackagePath>Assets\iNote_icon.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.targetsize-16.png">
+      <PackagePath>Assets\iNote_icon.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.targetsize-24.png">
+      <PackagePath>Assets\iNote_icon.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.targetsize-256.png">
+      <PackagePath>Assets\iNote_icon.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.targetsize-32.png">
+      <PackagePath>Assets\iNote_icon.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote_icon.targetsize-48.png">
+      <PackagePath>Assets\iNote_icon.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -65,19 +250,16 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\iNote.xr.xml">
       <PackagePath>iNote.xr.xml</PackagePath>

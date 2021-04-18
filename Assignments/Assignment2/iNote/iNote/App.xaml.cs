@@ -15,6 +15,8 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
+// Link to application icon and splash screen https://www.pngegg.com/en/png-baqvu
+
 namespace iNote
 {
     /// <summary>

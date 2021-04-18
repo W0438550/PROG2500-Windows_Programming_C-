@@ -58,3 +58,4 @@ D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assign
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\About.xaml
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\About.xbf
 D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\bin\x86\Debug\About.xbf
+D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\obj\x86\Debug\iNote.csprojAssemblyReference.cache

@@ -4,4 +4,15 @@
     <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
     <UseEmulator>true</UseEmulator>
   </PropertyGroup>
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <AppIconSource>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote.png</AppIconSource>
+    <Source>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote.png</Source>
+    <SmallTileSource>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote.png</SmallTileSource>
+    <MediumTileSource>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote.png</MediumTileSource>
+    <WideTileSource>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote.png</WideTileSource>
+    <LargeTileSource>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote.png</LargeTileSource>
+    <SplashScreenSource>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote.png</SplashScreenSource>
+    <PackageLogoSource>D:\NSCC\Course_Work\Year2Sem2\PROG2500-Windows_Programming_C#\Assignments\Assignment2\iNote\iNote\Assets\iNote.png</PackageLogoSource>
+  </PropertyGroup>
 </Project>

@@ -36,7 +36,7 @@ namespace iNote
             String appName = package.DisplayName;
             String pub = package.PublisherDisplayName;
 
-            appInfo.Text = "About this App\n\n" + string.Format("Name: " + appName + "\nDescription: This application manages notes" +
+            appInfo.Text = "About this App\n\n" + string.Format("Name: " + appName + "\nDescription: This application allows users to create, view, store and retrieve notes as text files from a local database" +
                 "\nPublisher: " + pub +
                 "\nVersion: {0}.{1}.{2}.{3}"
                 , version.Major, version.Minor, version.Build, version.Revision);
